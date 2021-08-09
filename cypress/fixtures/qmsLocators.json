@@ -1,0 +1,11 @@
+{
+    "goleft" : ".left",
+    "goRight" : ".right",
+    "carousel" : ".carousel-content",
+    "filters" : ".filters",
+    "tooltipInner" : ".tooltip-inner",
+    "tooltip" : ".tooltip",
+    "callblock" : "#call-block",
+    "addperson" : ".add",
+    "newUser" : "#new"
+}

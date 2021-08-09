@@ -1,0 +1,48 @@
+{
+    "raisedbutton" : ".mat-raised-button",
+    "buttonWrapper" : ".mat-button-wrapper",
+    "locationDialog" : "#mat-dialog-0",
+    "locationTitle": "#mat-dialog-title-0",
+    "locationBody" : ".mat-dialog-content",
+    "locationAction" : ".mat-dialog-actions",
+    "loader" : ".loader",
+    "svg" : "svg",
+    
+    "stepName" : ".step-name",
+    "stepNumber" : ".step-number",
+    "stepHeaderName" : ".mat-expansion-panel-header-title",
+    "placeCheckBtn" : ".mat-radio-label",
+
+    "loginUser" : ":nth-child(1) > .container-account > .form-control",
+    "loginPass" : ":nth-child(2) > .container-account > .form-control",
+    "loginButton" : ":nth-child(4) > .container-account",
+    "macroLoginButton" : ".form > .row",
+
+    "adminUser" : "whyline@whyline.com",
+    "adminPass" : "Su#pEr9Wh@Yli",
+    "macroAdminUser" : "whyline@whyline.com",
+    "macroAdminPass" : "nn3003",
+
+    "signIn" : "#sign-in",
+    "container" : ".container",
+    "form" : ".form",
+    "recaptcha" : ".tos-recaptcha",
+    "forgotAction" : ".actions",
+    "forgotButton" : ".actions > .ng-scope",
+    "copyright" : ".copyright",
+    "extradata" : ".extra-data",
+    "footer" : ".container-fluid",
+    
+
+    "qmsLoader" : ":nth-child(3) > .block-ui-overlay",
+    "qmsLoaderMessage" : ":nth-child(3) > .block-ui-message-container > .block-ui-message",
+    "qmsHeader" : "#header",
+    "qmsLeftPanel" : ".subnavbar-container",
+    "qmsLogoContainer" : ".logo-container",
+    "qmsToggleIcon" : ".logo-container > .navbar-left-toggle > .icon-dehaze",
+    "qmsSectionHeader" : ".section-header",
+    "qmsNewOrgIcon" : "#new",
+    "qmsList" : ".big-list",
+    "qmsSearch" : "#inputSearch"
+    
+}
